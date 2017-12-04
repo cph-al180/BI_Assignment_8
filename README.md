@@ -1,6 +1,9 @@
 # Business Intelligence Assignment 7 - Text classification and geographical data
 
-## Part 1 - Accuracy and recall
+## Part 1 - Accuracy and recall  
+  
+For results see: https://github.com/cph-al180/BI_Assignment_8/blob/master/part-1.ipynb
+For results see [this link](https://github.com/cph-al180/BI_Assignment_8/blob/master/part-1.ipynb)
 
 ### Part 1.1
 Accuracy is how close a measured value is to the actual (true) value  
