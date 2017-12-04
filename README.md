@@ -23,8 +23,10 @@ T-tests are inference tests, which is a type of test that tells us if we can inf
 We can analyze T-values to gain information about the P-value, which is a probabaility percentile for our hypothesis to be true. If the percentile is at or below 5% (this can vary based on the situation), then the hypothesis is significant.
 
 ### Part 2.2  
-`T-Value: 3.8682665640568583`  
-`P-Value: 0.00041658142370520256`  
+`T-Value: -3.8682665640568583`  
+`P-Value: 0.00041658142370520256` 
+  
+From the result we can gather that our sample is -3.86 standard deviations from the mean, and the probability of confirming a null hypothesis is 0.04%. This means that it's highly unlikely that the mean height of the sample matches the mean height of our population.
 
 ### Part 2.3
 `T-Value: 0.1964197529935458`  
