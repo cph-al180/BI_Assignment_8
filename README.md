@@ -32,7 +32,10 @@ From the result we can gather that our sample is -3.86 standard deviations from 
 
 ### Part 2.3
 `T-Value: 0.1964197529935458`  
-`P-Value: 0.84532834985133909`  
+`P-Value: 0.84532834985133909`   
+  
+Since the T-Value is so close to 0, it means that the mean sample and population are fairly close to eachother.  
+The P-Value indicates that our hypothesis is highly likely to be true, since it has a probability of 84%. In our case that the sample consists of American citizens.
 
   
 
