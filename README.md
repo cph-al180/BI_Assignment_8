@@ -19,13 +19,16 @@ Most of our guesses lay around a score of 0.9, which means we are very consisten
 ## Part 2 - Population and t-test
 
 ### Part 2.1
-a
+T-tests are inference tests, which is a type of test that tells us if we can infer anything from our data, which is supported by a hypothesis.  
+We can analyze T-values to gain information about the P-value, which is a probabaility percentile for our hypothesis to be true. If the percentile is at or below 5% (this can vary based on the situation), then the hypothesis is significant.
 
-### Part 2.2
-a
+### Part 2.2  
+`T-Value: 3.8682665640568583`  
+`P-Value: 0.00041658142370520256`  
 
 ### Part 2.3
-a
+`T-Value: 0.1964197529935458`  
+`P-Value: 0.84532834985133909`  
 
   
 
